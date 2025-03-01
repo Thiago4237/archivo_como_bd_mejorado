@@ -1,0 +1,14 @@
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\bin\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.exe
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\bin\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.deps.json
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\bin\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.runtimeconfig.json
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\bin\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.dll
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\bin\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.pdb
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\obj\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\obj\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.AssemblyInfoInputs.cache
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\obj\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.AssemblyInfo.cs
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\obj\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\obj\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.dll
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\obj\Debug\net8.0\refint\ArchivoComoBaseDeDatosOptimizado.dll
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\obj\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.pdb
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\obj\Debug\net8.0\ArchivoComoBaseDeDatosOptimizado.genruntimeconfig.cache
+C:\Users\SANTIAGO\source\repos\ArchivoComoBaseDeDatosOptimizado\ArchivoComoBaseDeDatosOptimizado\obj\Debug\net8.0\ref\ArchivoComoBaseDeDatosOptimizado.dll
